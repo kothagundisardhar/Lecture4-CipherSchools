@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>document</title>
+</head>
+<body>
+<h1>my heading 1</h1>
+<h2>my heading 2</h2>
+<h3>my heading 3</h3>
+<h4>my heading 4</h4>
+<h5>my heading 5</h5>
+<h6>my heading 6</h6>
+<p>this is a paragraph</p>
+<p>this is another paragraph</p>
+<a href="https://www.cipherschools.com">go to cipher schools</a>
+<img src="https://www.cipherschools.com/courses" alt="cipher schools">
+<button>click me</button>
+</body>
+</html>
