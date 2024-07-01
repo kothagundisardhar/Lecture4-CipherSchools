@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>document</title>
+</head>
+<body>
+<p>this is <b>sardhar</b><br>sardhar lives in india</p>
+<div>
+<p>this is <i>sardhar</i><br>sardhar lives in india</p>
+<p>this is <u>sardhar</u><br>sardhar lives in <span style="color: red;">india</span></p>
+<hr>
+</div>
+</body>
+</html>
